@@ -1,5 +1,6 @@
 {
   "name": "gh-page",
+  "homepage": "https://khyatiaghera.github.io/gh-pages-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
